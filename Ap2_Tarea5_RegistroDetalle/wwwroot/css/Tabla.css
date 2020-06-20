@@ -1,0 +1,8 @@
+﻿
+#tabla {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    display: block;
+   
+}
